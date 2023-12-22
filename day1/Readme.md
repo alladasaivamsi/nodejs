@@ -1,7 +1,7 @@
 M => MondoDB
-**E => Express 
-**R => React
-**N => NodeJS
+E => Express 
+R => React
+N => NodeJS
 
 Components of BackEnd
 =====================
