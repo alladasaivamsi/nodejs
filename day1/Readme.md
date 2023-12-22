@@ -1,9 +1,9 @@
 M => MondoDB
-E => Express 
-R => React
-N => NodeJS
+**E => Express 
+**R => React
+**N => NodeJS
 
-Components of BackEnd =>
+Components of BackEnd
 =====================
 1. API
 2. Server
